@@ -1,3 +1,6 @@
+## Course
+- https://blog.csdn.net/weixin_45921929/article/details/128646745
+
 ## Installation
 
 ```sh
